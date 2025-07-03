@@ -22,8 +22,40 @@ header h1 {
 
 }
 
-header p a {
+ p a {
     color: aquamarine;
+    text-align: center;
+    margin: 20px 20px;
+    font-size: 16px;
+}
+
+header video {
+
+    align-items: center;
+    margin: 20px 0;
+}
+
+h2 {
+    color: white;
+    text-align: center;
+    margin: 20px 20px;
+    font-size: 42px;
+    font-weight: 300;
+}
+
+h4 {
+    color: gray;
+    text-align: center;
+    margin: 20px 20px;
+    font-size: 21px;
+}
+
+img {
+    display: block;
+    margin: 1em auto;
+}
+footer {
+    color: gray;
     text-align: center;
     margin: 20px 20px;
     font-size: 16px;
